@@ -1,6 +1,0 @@
-[
-    {"name":"Payara5.183","javaee":"8","microprofile":"2.0"},
-    {"name":"WildFly 14.01","javaee":"8","microprofile":"Config, OpenTracing, Health"},
-    {"name":"TomEE 8.0","javaee":"8","microprofile":"2.0"},
-    {"name":"OpenLiberty 18.0.0.3","javaee":"8","microprofile":"2.0"}
-]
