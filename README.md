@@ -11,7 +11,9 @@
 
 # About
 
-The markdown and HTML markup was generated with two custom elements / WebComponents from servers.json without any external dependencies #usetheplatform. Checkout: [webcomponents.training](http://webcomponents.training) or [airhacks.io](http://airhacks.io/)
+The markdown and HTML markup was generated with two custom elements / WebComponents from servers.json without any external dependencies #usetheplatform. 
+
+Checkout: [webcomponents.training](http://webcomponents.training) or [airhacks.io](http://airhacks.io/)
 
 
 # Generate
