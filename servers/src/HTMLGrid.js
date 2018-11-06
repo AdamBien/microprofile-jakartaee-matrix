@@ -1,4 +1,4 @@
-export default class ServerGrid extends HTMLElement { 
+export default class HTMLGrid extends HTMLElement { 
 
     constructor() { 
         super();
@@ -40,7 +40,7 @@ export default class ServerGrid extends HTMLElement {
 
 }
 
-customElements.define("server-grid", ServerGrid);
+customElements.define("html-grid", HTMLGrid);
 
 
 
