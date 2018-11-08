@@ -4,10 +4,9 @@
 |Server|Java EE version|MicroProfile version|
 |------|---------------|--------------------|
 |[Payara 5.183](https://www.payara.fish)|8|2.0|
-|[TomEE 8.0](http://tomee.apache.org)|8|2.0|
+|[TomEE 8.0 M1](http://tomee.apache.org)|WebProfile 8|1.3|
 |[OpenLiberty 18.0.0.3](https://openliberty.io)|8|2.0|
 |[WildFly 14.01](http://wildfly.org)|8|Config, OpenTracing, Health|
-
 
 # About
 
