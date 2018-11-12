@@ -2,6 +2,6 @@
     {"name":"Payara 5.183","uri":"https://www.payara.fish","javaee":"8","microprofile":"2.0"},
     {"name":"TomEE 8.0 M1","uri":"http://tomee.apache.org","javaee":"WebProfile 8","microprofile":"1.3"},
     {"name":"OpenLiberty 18.0.0.3","uri":"https://openliberty.io","javaee":"8","microprofile":"2.0"},
-    {"name":"WildFly 14.01","uri":"http://wildfly.org","javaee":"8","microprofile":"Config, OpenTracing, Health"}
+    {"name":"WildFly 14.01","uri":"http://wildfly.org","javaee":"8","microprofile":"Config, OpenTracing, Health, Rest Client"}
 
 ]
