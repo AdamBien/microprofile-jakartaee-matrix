@@ -1,12 +1,12 @@
 # microprofile-runtime-support
 
-
 |Server|Java EE version|MicroProfile version|
 |------|---------------|--------------------|
-|[Payara 5.184](https://www.payara.fish)|8|2.0|
+|[Payara 5.191](https://www.payara.fish)|8|2.1|
 |[TomEE 8.0 M1](http://tomee.apache.org)|WebProfile 8|1.3|
-|[OpenLiberty 18.0.0.3](https://openliberty.io)|8|2.0|
+|[OpenLiberty 18.0.0.4](https://openliberty.io)|8|2.1|
 |[WildFly 15.0.1](http://wildfly.org)|8|Config, OpenTracing, Health, Metrics|
+
 
 # About
 
